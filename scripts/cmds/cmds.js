@@ -6,11 +6,11 @@ const ITEMS_PER_PAGE = 10;
 module.exports.config = {
   name: "cmdstore",
   aliases: ["cs", "cmds"],
-  author: "Dipto",
+  author: "Maximin",
   role: 0,
   version: "6.9",
   description: {
-    en: "Commands Store of Dipto",
+    en: "Commands Store of Maximin",
   },
   countDown: 3,
   category: "goatbot",
