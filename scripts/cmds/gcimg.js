@@ -93,7 +93,7 @@ module.exports = {
             };
 
             if (data2) {
-                var waitingMsg = await api.sendMessage("⏳ |𝑲𝒐𝒓𝒕𝒆𝒄𝒉𝒊𝒕𝒐 𝒃𝒃𝒚 𝒆𝒌𝒕𝒖 𝒘𝒂𝒊𝒕 𝒌𝒐𝒓𝒐 😷😙.",event.threadID);
+                var waitingMsg = await api.sendMessage("⏳ |ᵂᴬᴵᵀ..... 𝐌𝐚𝐱𝐢𝐦𝐢𝐧 .... 😷😙.",event.threadID);
                 api.setMessageReaction(
                     "⏳",
                     event.messageID,
