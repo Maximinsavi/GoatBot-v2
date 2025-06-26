@@ -14,7 +14,7 @@ module.exports.config = {
   description: "AI",
   hasPrefix: false,
   usages: "{pn} [prompt]",
-  aliases: ["ai2", "bot"],
+  aliases: ["ai2", "bot", "ai", "Ai", "AI", "aI"],
   cooldown: 0,
 };
 
